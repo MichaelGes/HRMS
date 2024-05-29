@@ -1,0 +1,13 @@
+html{
+    direction: ltr !important;
+}
+body{
+    direction: ltr !important;
+    font-family: Cairo;
+}
+.form-group input{
+    background: transparent !important;
+}
+input{
+    background: transparent !important;
+}
